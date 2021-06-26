@@ -79,8 +79,20 @@
     "calling": "Đang gọi...",
     "cameraIsOff": "Camera đang tắt",
     "callingTo": "Đang gọi đến...",
-    "startVoiceCall": "Bắt đầu cuộc gọi thoại",
-    "startVideoCall": "Bắt được cuộc trò chuyện video",
+    "startVoiceCall": "Bắt đầu gọi thoại",
+    "startVideoCall": "Bắt đầu gọi video",
     "conversationInfo": "Thông tin cuộc trò truyện",
-    "paramSeenAtParam2": "{{param}} đã xem lúc {{param2}}"
+    "paramSeenAtParam2": "{{param}} đã xem lúc {{param2}}",
+    "nickname": "Biệt danh",
+    "setANickname": "Đặt biệt danh",
+    "message": "Tin nhắn",
+    "removeAdministratorRole": "Gỡ vai trò quản trị viên",
+    "designatedAsAnAdministrator": "Chỉ định làm quản trị viên",
+    "removeMember": "Xóa thành viên",
+    "leaveRoom": "Rời khỏi nhóm",
+    "areYouSureWantToRemoveParamFromRoom": "Bạn có chắc muốn xóa {{param}} khỏi nhóm",
+    "areYouSureWantToSetParamAsAnAministrator": "Bạn có chắc muốn chỉ định {{param}} làm quản trị viên",
+    "areYouSureWantToRemoveParamAdministratorRole": "Bạn có chắc muốn gỡ {{param}} khỏi vai trò quản trị viên",
+    "areYouSureWantToLeaveThisRoom": "Bạn có chắc chắn muốn rời khỏi nhóm này",
+    "confirm": "Xác nhận"
 }
