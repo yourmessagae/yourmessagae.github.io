@@ -94,5 +94,6 @@
     "areYouSureWantToSetParamAsAnAministrator": "Bạn có chắc muốn chỉ định {{param}} làm quản trị viên",
     "areYouSureWantToRemoveParamAdministratorRole": "Bạn có chắc muốn gỡ {{param}} khỏi vai trò quản trị viên",
     "areYouSureWantToLeaveThisRoom": "Bạn có chắc chắn muốn rời khỏi nhóm này",
-    "confirm": "Xác nhận"
+    "confirm": "Xác nhận",
+    "download": "Tải xuống"
 }
