@@ -95,5 +95,12 @@
     "areYouSureWantToRemoveParamAdministratorRole": "Bạn có chắc muốn gỡ {{param}} khỏi vai trò quản trị viên",
     "areYouSureWantToLeaveThisRoom": "Bạn có chắc chắn muốn rời khỏi nhóm này",
     "confirm": "Xác nhận",
-    "download": "Tải xuống"
+    "download": "Tải xuống",
+    "notification": "Thông báo",
+    "theFileSizeIsTooLargeCantUploadFilesLargerThan50MB": "Kích thước file quá lớn, không thể tải lên file lớn hơn 50MB",
+    "createNewGroupWithParam": "Tạo nhóm mới với {{param}}",
+    "deleteContact": "Xóa liên hệ",
+    "areYouSureWantToCreateNewGroupWithParam": "Bạn có chắc chắn muốn tạo nhóm mới với {{param}}",
+    "subscribeNotification": "Nhận thông báo",
+    "unsubscribeNotification": "Bỏ nhận thông báo"
 }
