@@ -43,7 +43,7 @@
     "youRepliedToYourselfMessage": "You replied to yourself message",
     "paramRepliedToParam2Message": "{{param}} replied to {{param2}} message",
     "paramRepliedToYourMessage": "{{param}} replied to your message",
-    "paramRepliedToHeHerMessage": "{{param}} replied to he/her message",
+    "paramRepliedToHeHerMessage": "{{param}} replied to themself message",
     "forward": "Forward",
     "remove": "Remove",
     "close": "Close",
@@ -151,5 +151,7 @@
     "seconds": "Seconds",
     "justFinished": "Just finished",
     "aFewSecond": "A few second",
-    "feeling": "Feeling"
+    "feeling": "Feeling",
+    "welcome": "Welcome!",
+    "notYou": "Not you?"
 }
