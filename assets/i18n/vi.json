@@ -153,5 +153,7 @@
     "aFewSecond": "Vài giây",
     "feeling": "Cảm xúc",
     "welcome": "Xin chào!",
-    "notYou": "Không phải bạn?"
+    "notYou": "Không phải bạn?",
+    "youAreOffline": "Bạn đang offline",
+    "internetConnected": "Đã khôi phục kết nối interet"
 }

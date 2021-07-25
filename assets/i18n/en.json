@@ -153,5 +153,7 @@
     "aFewSecond": "A few second",
     "feeling": "Feeling",
     "welcome": "Welcome!",
-    "notYou": "Not you?"
+    "notYou": "Not you?",
+    "youAreOffline": "You are offline",
+    "internetConnected": "Internet connected"
 }
